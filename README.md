@@ -2,11 +2,12 @@
 # Ecosystem Simulation WebApp
 
 ## First of all
-App Url : https://app-ecosystem-simulation.streamlit.app/
+<br>
+**App Url:** https://app-ecosystem-simulation.streamlit.app/
 
-**Login information:**
-**Username**: admin <br>
-**Password**: 1234
+**Login information:** <br>
+**Username:** admin <br>
+**Password:** 1234
 
 ## Introduction
 This interactive web application, developed using Streamlit, provides a unique educational experience through ecosystem simulations. It includes three distinct simulations, each depicting various species and ecosystems. Users engage with the app by matching animals and plants to their appropriate ecosystems, enhancing their understanding of ecological relationships.
