@@ -33,13 +33,23 @@ To run this application, you'll need Python installed on your system. Follow the
 
 ## Usage
 
-To start the application, run:
+To start the application locally, run:
 
 ```
 streamlit run run.py
 ```
+To start the application through streamlit cloud:
 
+https://ecosystem-sim.streamlit.app/
+```
 Navigate through the application using the sidebar to select simulations and make your ecosystem choices.
+
+
+**## login**
+
+username: admin
+password: 1234
+
 
 ## Project Structure
 
