@@ -4,8 +4,7 @@
 ## First of all
 App Url : https://app-ecosystem-simulation.streamlit.app/
 
-**Login information:
-**ור
+**Login information:**
 **Username**: admin <br>
 **Password**: 1234
 
