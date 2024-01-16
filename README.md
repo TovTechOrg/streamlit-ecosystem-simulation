@@ -46,9 +46,9 @@ Navigate through the application using the sidebar to select simulations and mak
 ```
 
 
-## login
+## Login
 
-username: admin
+username: admin <br>
 password: 1234
 
 
