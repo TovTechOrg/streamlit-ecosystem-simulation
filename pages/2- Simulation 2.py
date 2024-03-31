@@ -295,9 +295,9 @@ if authentication_status:
         ph = (float(parameters[3]) >= optimal_ph[0])  & (float(parameters[3]) <= optimal_ph[1])
 
     # the final test, checking the species and conditions, four diffrent answers using a pop up message
-    incomplete = Modal(key="incomplete Key",title="Your ecosystem is incomplete")
-    no_sus = Modal(key="no_sus Key",title="Your ecosystem is NOT sustainable")
-    success = Modal(key="Congrats! Key",title="Congrats!")
+    incomplete = Modal(key="incomplete Key",title="Your ecosystem is incomplete", max_width=500)
+    no_sus = Modal(key="no_sus Key",title="Your ecosystem is NOT sustainable", max_width=500)
+    success = Modal(key="Congrats! Key",title="Congrats!", max_width=500)
 
     with left:
         if submit:
